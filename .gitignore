@@ -1,0 +1,11 @@
+/build
+/Drivers
+/Middlewares
+*.swp
+.mxproject
+*.tmp
+mx.scratch
+*.ftl
+*.ld
+*.s
+
